@@ -1,5 +1,4 @@
-//assignment 2 Q 2 Write a Java program to concatenate a given string to 
-//the end of another string
+//assignment 2 Q 2 Write a Java program to concatenate a given stri
 package string1;
 import java.util.Scanner;
 class ConcanateString {
