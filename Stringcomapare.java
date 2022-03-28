@@ -13,7 +13,7 @@ public class Stringcomapare
 		String s2=sc.next();
 		
 		if(s1.equals(s2))
-		{
+		
 			System.out.println("Stering value are same");
 		}
 		else
